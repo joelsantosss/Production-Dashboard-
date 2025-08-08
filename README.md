@@ -59,3 +59,9 @@ This project involves the creation of a comprehensive **Production Dashboard** i
 
 ## Conclusion
 This dashboard offers a clear, interactive overview of production costs and output by category and manager task distribution, enabling better operational insights and strategic planning.
+
+## Dashboard Screenshot
+
+![Production Dashboard](<img width="922" height="655" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/905b6adc-22d4-4c26-bd9f-7147554063e7" />
+)
+
